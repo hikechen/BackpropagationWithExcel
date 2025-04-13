@@ -1,8 +1,5 @@
 # Implementing Backpropagation Neural Networks Using Excel
 
-**Author:** Chen Shao-Jie  
-**Date:** March 20, 2019
-
 ---
 
 This document demonstrates how to implement a simple neural network with backpropagation entirely within Microsoft Excel. No programming code is required—just Excel formulas and built-in features.
